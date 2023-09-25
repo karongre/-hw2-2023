@@ -62,17 +62,24 @@ div{
     border-top-width: 2px;
     border-left-width: 0;
     border-bottom-width: 0;
+    
 
 }
+
+.blue h2, .blue p{
+    color: #c4c4c4;
+}
+
 
 .yellow{
     background-color: #fff000;
     text-align: right;
     margin-left: 50px;
-    border-right-width: 5px;
-    border-top-width: 2px;
-    border-left-width: 0;
-    border-bottom-width: 0;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 5px;
+    border-bottom-width: 2px;
+    
 
 
 
@@ -84,6 +91,8 @@ div{
 .green{
     background-color: #00EB00;
     text-align: left;
+    margin-right: 50px;
+    margin-left: 0;
     border-right-width: 5px;
     border-top-width: 2px;
     border-left-width: 0;
