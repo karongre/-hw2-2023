@@ -92,11 +92,10 @@ div{
     background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
-    margin-left: 0;
     border-right-width: 5px;
     border-top-width: 2px;
     border-left-width: 0;
-    border-right-width: 0;
+
 }
 
 footer{
